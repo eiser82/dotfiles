@@ -1,2 +1,2 @@
 # dotfiles
-My minimalist configuration
+My minimalist configuration for some of my personal dotfiles on Linux.
